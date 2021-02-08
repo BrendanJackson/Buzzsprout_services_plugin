@@ -1,0 +1,63 @@
+input[type="text"]:disabled { background-color: -internal-light-dark(rgba(239, 239, 239, 0.3), rgba(59, 59, 59, 0.3)); }
+.hidden{ display:none; }
+.modal__list{  list-style-type: none; }
+.modal__item {
+    border-color: rgba(118, 118, 118, 0.3);
+    background-image: url(http://www.buzzsprout.com/assets/public_players/listen_on_small-564e4128eeacbc099bd6fff974cd8cc1b229afd8b6362ce4e0847bcf374b5b53.svg);
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    color: #000000;
+    flex: 0 35%;
+    font-size: 17px;
+    font-weight: normal;
+    margin-right: 30px;
+    padding: 20px 0px 20px 40px;
+    transition: transform .2s;
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    letter-spacing: -.2px;
+}
+.modal__item--apple { background-position: 0 19px }
+.modal__item--spotify { background-position: 0 -33px; }
+.modal__item--google { background-position: 0 -81px }
+.modal__item--stitcher { background-position: 0 -126px }
+.modal__item--iheartradio { background-position: 0 -177px }
+.modal__item--tunein { background-position: 0 -223px }
+.modal__item--rss { background-position: 0 -284px }
+.modal__item--overcast { background-position: 0 -331px }
+.modal__item--pocket { background-position: 0 -381px }
+.modal__item--castro { background-position: 0 -431px }
+.modal__item--castbox { background-position: 0 -481px }
+.modal__item--podchaser { background-position: 0 -531px }
+.modal__item--pandora { background-position: 0 -582px }
+.modal__item--podcastaddict { background-position: 0 -635px }
+.modal__item--deezer { background-position: 0 -690px }
+.modal__item--listennotes { background-position: 0 -743px }
+.modal__item--amazon { background-position: 0 -792px }
+.modal__item--playerfm { background-position: 0 -842px }
+.modal__item--jiosaavn { background-position: 0 -892px }
+.modal__item--gaana { background-position: 0 -942px }
+.modal__item--podcastindex { background-position: 0 -992px }
+.modal__item--podfriend { background-position: 0 -1042px }
+
+/*.modal__item--apple { background-position: 0 15px }*/
+/*.modal__item--spotify { background-position: 0 -37px; }*/
+/*.modal__item--google { background-position: 0 -85px }*/
+/*.modal__item--stitcher { background-position: 0 -130px }*/
+/*.modal__item--iheartradio { background-position: 0 -181px }*/
+/*.modal__item--tunein { background-position: 0 -227px }*/
+/*.modal__item--rss { background-position: 0 -287px }*/
+/*.modal__item--overcast { background-position: 0 -335px }*/
+/*.modal__item--pocket { background-position: 0 -385px }*/
+/*.modal__item--castro { background-position: 0 -435px }*/
+/*.modal__item--castbox { background-position: 0 -485px }*/
+/*.modal__item--podchaser { background-position: 0 -535px }*/
+/*.modal__item--pandora { background-position: 0 -586px }*/
+/*.modal__item--podcastaddict { background-position: 0 -639px }*/
+/*.modal__item--deezer { background-position: 0 -694px }*/
+/*.modal__item--listennotes { background-position: 0 -747px }*/
+/*.modal__item--amazon { background-position: 0 -796px }*/
+/*.modal__item--playerfm { background-position: 0 -846px }*/
+/*.modal__item--jiosaavn { background-position: 0 -896px }*/
+/*.modal__item--gaana { background-position: 0 -946px }*/
+/*.modal__item--podcastindex { background-position: 0 -996px }*/
+/*.modal__item--podfriend { background-position: 0 -1046px }*/
